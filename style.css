@@ -20,9 +20,17 @@ nav div .navbar-nav a:hover {
     color: white;
 }
 
+.carousel2 img{
+    height: 400px;
+}
+
+.background-hawaii{
+    background-color: rgb(70, 70, 70);
+}    
+
 .footer-background{
-    background: rgb(6,72,91);
-    background: linear-gradient(90deg, rgba(6,72,91,1) 0%, rgba(15,118,139,1) 100%);
+    background: rgb(4,37,47);
+    background: linear-gradient(90deg, rgba(4,37,47,1) 0%, rgba(2,77,93,1) 100%);
 }
 
 footer a {
