@@ -21,12 +21,18 @@ nav div .navbar-nav a:hover {
 }
 
 .carousel2 img{
-    height: 400px;
+    height: 55vh;
 }
 
 .background-hawaii{
     background-color: rgb(70, 70, 70);
 }    
+
+.charla{
+    color:gray;
+    text-decoration-style: dotted;
+    -moz-text-decoration-style: dotted;
+}
 
 .footer-background{
     background: rgb(4,37,47);
